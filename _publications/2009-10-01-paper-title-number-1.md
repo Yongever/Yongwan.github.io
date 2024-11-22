@@ -5,7 +5,6 @@ Future Research"
 collection: publications
 category: manuscripts
 excerpt: 'In the process of publishing the paper'
-venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 ---
