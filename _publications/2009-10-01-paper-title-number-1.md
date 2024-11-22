@@ -1,5 +1,7 @@
 ---
-title: "Paper Title Number 1"
+title: "A Systematic Review of Knowledge Tracing and Large
+Language Models in Education: Opportunities, Issues, and
+Future Research"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
